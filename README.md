@@ -1,16 +1,14 @@
 # testmd1
 
-<table>
+<table border="1">
   <tr>
-    <th>1111<th>
-    <th>2222<th>
+    <th>Month</th>
+    <th>Savings</th>
+  </tr>
   <tr>
+    <td colspan="2">January</td>
+  </tr>
   <tr>
-    <td>3333<td>
-    <td>4444<td>
-  <tr>
-  <tr>
-    <td>5555<td>
-    <td>6666<td>
-  <tr>
+    <td colspan="2">February</td>
+  </tr>
 </table>
