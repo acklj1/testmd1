@@ -10,6 +10,7 @@
     <td>4444<td>
   <tr>
   <tr>
-    <td colspan="2">5555<td>
+    <td>5555<td>
+    <td>6666<td>
   <tr>
 </table>
