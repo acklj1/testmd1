@@ -1,6 +1,6 @@
 # testmd1
 
-<table border="1">
+<table>
   <tr>
     <th>Month</th>
     <th>Savings</th>
